@@ -18,4 +18,4 @@ Juego de cartas entre dos contrincantes (jugador y repartidor) los cuales deben 
 10) La mano del repartidor está oculta
 
 ## Interfaz:
-![Juego21]()
+![Juego21](https://github.com/NathaliaMartinezVargas/Juego21/blob/master/Juego21.png)
